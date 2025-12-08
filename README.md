@@ -11,3 +11,5 @@ It is intended for learning, improving, and experimenting with HTML concepts, in
 - HTML best practices and accessibility
 
 I will be updating this repository regularly as I continue to learn and explore more HTML features.
+
+Keep Learning ...
